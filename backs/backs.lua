@@ -1,6 +1,6 @@
 local anabeldeck = {
-	name = "virtuousdeck",
-	key = "virtuousdeck",  
+	name = "anabeldeck",
+	key = "anabeldeck",  
     atlas = "backs",
     pos = { x = 1, y = 0 },
 	config = {jokers = {"j_snorlax"}},
