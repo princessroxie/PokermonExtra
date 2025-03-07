@@ -19,7 +19,14 @@ return {
                         "Start with a ",
                         "{C:dark_edition}Snorlax{}"
                 }
-            }
+            },
+            sleeve_sonfive_reverencesleeve_alt = {
+                name = "Reverence Sleeve",
+                text = {
+                        "Start with ",
+                        "an {C:dark_edition}Abra{}"
+                },
+            },
         }
     }
 }
