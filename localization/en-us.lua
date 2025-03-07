@@ -8,6 +8,7 @@ return {
                         "Start with a ",
                         "{C:dark_edition}Snorlax{}"
                 }
+            }
         }
 
         Sleeve = {
