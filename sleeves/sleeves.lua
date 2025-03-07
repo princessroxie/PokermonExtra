@@ -4,16 +4,16 @@ local anabelsleeve = {
     prefix_config = {},
     atlas = "sleeves",
     pos = { x = 1, y = 0 },
-    config = {jokers = {"j_pokermon_snorlax"},
+    config = {jokers = {"j_poke_snorlax"},
     loc_vars = function(self, info_queue, center)
         local key, vars
         if self.get_current_deck_key() == "b_pokermonextra_anabeldeck" then
             key = self.key.."_alt"
-            self.config = {jokers = {"j_pokermon_abra"}
+            self.config = {jokers = {"j_poke_abra"}
             vars = {self.config.jokers}
         else
             key = self.key
-            self.config = {jokers = {"j_pokermon_snorlax"}
+            self.config = {jokers = {"j_poke_snorlax"}
             vars = {self.config.jokers}
         end
         return {key = key, vars = vars}
