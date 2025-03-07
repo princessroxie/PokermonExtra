@@ -20,8 +20,8 @@ return {
                         "{C:dark_edition}Snorlax{}"
                 }
             },
-            sleeve_sonfive_reverencesleeve_alt = {
-                name = "Reverence Sleeve",
+            sleeve_pokermonextra_anabelsleeve_alt = {
+                name = "Anabel Sleeve",
                 text = {
                         "Start with ",
                         "an {C:dark_edition}Abra{}"
