@@ -8,7 +8,7 @@ return {
                         "Start with a ",
                         "{C:dark_edition}Snorlax{}"
                 }
-            }
+        }
 
         Sleeve = {
 
@@ -17,7 +17,7 @@ return {
                 text = {
                         "Start with a ",
                         "{C:dark_edition}Snorlax{}"
-                },
+                }
             }
         }
     }
